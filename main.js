@@ -12,7 +12,7 @@ car2_width=120;
 car2_height=70;
 car_image2="car2.png";
 car2_x=10;
-car2_y=10;
+car2_y=100;
 
 
 background_image="race car.jpg";
